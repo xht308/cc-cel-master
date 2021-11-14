@@ -5,7 +5,7 @@
    */
   module.exports = {
 
-  	PROJECT_CEL_DAY: '2021-12-30', //### 校庆日 格式YYYY-MM-DD
+  	PROJECT_CEL_DAY: '2021-11-20', //### 校庆日 格式YYYY-MM-DD
 
   	PROJECT_MARK: 'cel',
   	PROJECT_COLOR: '#C6000E',
