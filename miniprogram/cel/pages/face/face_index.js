@@ -14,7 +14,7 @@ Page({
 		userPic: '',
 		proIdx: 'face0.png',
 		current: 0, //当前图片
-		proList: ['face0.png', 'face1.png', 'face2.png', 'face3.png', 'face4.png', 'face5.png', 'face6.png','face7.png']
+		proList: ['face0.png', 'face1.png', 'face2.png', 'face3.png']
 	},
 
 	/**
