@@ -3,7 +3,7 @@
 	<view class="top-pic">
 		<image mode="scaleToFill" src="../../images/home/ten.png"></image>
 		<view class="time-f">
-			<text>距{{celDay}}建校10周年还有</text>
+			<text>距{{celDay}}办学10周年还有</text>
 			<view class="day-show">
 				<text class="day-today">{{day}}</text>
 				<text class="day-day">天</text>
